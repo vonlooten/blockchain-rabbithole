@@ -4,9 +4,13 @@ b-money paper by Wei Dai, 1998 http://www.weidai.com/bmoney.txt
 
 Original Bitcoin whitepaper by Satoshi Nakamoto, 31 Oct 2008 https://bitcoin.org/bitcoin.pdf
 
+Collection of literature, curated by Satoshi Nakamoto Institut https://nakamotoinstitute.org/literature/
+
 Ethereum original whitepaper [https://github.com/ethereum/wi...](https://github.com/ethereum/wiki/blob/old-before-deleting-all-files-go-to-wiki-wiki-instead/old-whitepaper-for-historical-reference.md)
 
 MIT 15.S12 Blockchain and Money, Fall 2018 by MIT / Prof. Gary Gensler https://youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
+
+## DEFI
 
 Uniswap V2 Core whitepaper by Adams, Zinsmeister, Robinson, March 2020 https://uniswap.org/whitepaper.pdf
 
@@ -20,4 +24,25 @@ Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets
 DeFi and the Future of Finance by Joey Santoro, 5 April 2021 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711777
 
 What Are Liquidity Pools in DeFi and How Do They Work? by Binance Academy May 2021 https://academy.binance.com/en/articles/what-are-liquidity-pools-in-defi
+
+## Token Standards
+
+### Ethereum
+ERC-20 https://ethereum.org/en/developers/docs/standards/tokens/erc-20/, https://eips.ethereum.org/EIPS/eip-20 
+
+ERC-721 https://ethereum.org/en/developers/docs/standards/tokens/erc-721/, https://eips.ethereum.org/EIPS/eip-721
+
+ERC-777 https://eips.ethereum.org/EIPS/eip-777
+
+### Tron
+TRC-10 https://developers.tron.network/docs/trc10
+
+TRC-20 https://developers.tron.network/docs/trc20
+
+TRC-721 https://developers.tron.network/docs/trc-721
+### Binance Smart Chain
+BEP-2 https://academy.binance.com/en/glossary/bep-2
+
+BEP-20 https://github.com/binance-chain/BEPs/blob/master/BEP20.md
+## Smart Contracts
 
