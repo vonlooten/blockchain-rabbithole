@@ -10,6 +10,8 @@ Ethereum original whitepaper [https://github.com/ethereum/wi...](https://github.
 
 MIT 15.S12 Blockchain and Money, Fall 2018 by MIT / Prof. Gary Gensler https://youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
 
+Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood, 2019 https://github.com/ethereumbook/ethereumbook
+
 ## DEFI
 
 Uniswap V2 Core whitepaper by Adams, Zinsmeister, Robinson, March 2020 https://uniswap.org/whitepaper.pdf
