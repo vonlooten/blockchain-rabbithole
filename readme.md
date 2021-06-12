@@ -27,8 +27,9 @@ DeFi and the Future of Finance by Joey Santoro, 5 April 2021 https://papers.ssrn
 
 What Are Liquidity Pools in DeFi and How Do They Work? by Binance Academy May 2021 https://academy.binance.com/en/articles/what-are-liquidity-pools-in-defi
 
-Decentralized Finance: (DeFi) Policy-Maker Toolkit by World Economic Forum, 8 June 2021 http://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf
+DeFi Beyond the Hype: The Emerging World of Decentralized Finance, UPenn Wharton and World Economic Forum, May 2021 https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf
 
+Decentralized Finance: (DeFi) Policy-Maker Toolkit by World Economic Forum, 8 June 2021 http://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf
 
 ## Token Standards
 
