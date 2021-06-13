@@ -12,6 +12,8 @@ MIT 15.S12 Blockchain and Money, Fall 2018 by MIT / Prof. Gary Gensler https://y
 
 Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood, 2019 https://github.com/ethereumbook/ethereumbook
 
+The Crypto Anarchist Manifesto, by Timothy C. May, 22 Nov 1992 https://activism.net/cypherpunk/crypto-anarchy.html
+
 ## DEFI
 
 Uniswap V2 Core whitepaper by Adams, Zinsmeister, Robinson, March 2020 https://uniswap.org/whitepaper.pdf
