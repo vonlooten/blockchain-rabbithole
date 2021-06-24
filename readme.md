@@ -57,3 +57,19 @@ BEP-20 https://github.com/binance-chain/BEPs/blob/master/BEP20.md
 An Introduction to Smart Contracts and Their Potential and Inherent Limitations by Stuart D. Levi and Alex B. Lipton, Skadden, May 26 2018 https://corpgov.law.harvard.edu/2018/05/26/an-introduction-to-smart-contracts-and-their-potential-and-inherent-limitations/
 
 Introduction to smart contracts by Kevin Ziechmann, March 30 2021 https://ethereum.org/en/developers/docs/smart-contracts/
+
+## Ethereum 
+
+### Network
+- https://etherscan.io/
+- https://ethernodes.org/
+  
+### Development
+
+- https://ethereumdev.io/
+- https://docs.soliditylang.org/en/latest/index.html
+- https://ethdocs.org/en/latest/index.html
+- https://eth.wiki/
+- https://ethereum.org/en/developers/docs/intro-to-ethereum/
+
+- https://github.com/embarklabs/embark
