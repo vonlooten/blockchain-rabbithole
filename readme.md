@@ -14,6 +14,8 @@ Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood, 2019 https://github.
 
 The Crypto Anarchist Manifesto, by Timothy C. May, 22 Nov 1992 https://activism.net/cypherpunk/crypto-anarchy.html
 
+A message about individual empowerment with OSS, by genjix May 31 2014 https://github.com/unsystem/paypub/blob/master/TESTFILE
+
 ## DEFI
 
 Uniswap V2 Core whitepaper by Adams, Zinsmeister, Robinson, March 2020 https://uniswap.org/whitepaper.pdf
@@ -73,3 +75,5 @@ Introduction to smart contracts by Kevin Ziechmann, March 30 2021 https://ethere
 - https://ethereum.org/en/developers/docs/intro-to-ethereum/
 
 - https://github.com/embarklabs/embark
+
+- Browser Ethereum IDE https://remix.ethereum.org/
