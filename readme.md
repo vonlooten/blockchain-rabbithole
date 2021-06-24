@@ -35,6 +35,9 @@ DeFi Beyond the Hype: The Emerging World of Decentralized Finance, UPenn Wharton
 
 Decentralized Finance: (DeFi) Policy-Maker Toolkit by World Economic Forum, 8 June 2021 http://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf
 
+### Cross-Chain-Defi
+O3 Swap https://o3swap.com/
+
 ## Token Standards
 
 ### Ethereum
