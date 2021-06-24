@@ -63,6 +63,8 @@ An Introduction to Smart Contracts and Their Potential and Inherent Limitations 
 
 Introduction to smart contracts by Kevin Ziechmann, March 30 2021 https://ethereum.org/en/developers/docs/smart-contracts/
 
+Smart Contract Research Forum https://www.smartcontractresearch.org/
+
 ## Ethereum 
 
 ### Network
