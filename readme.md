@@ -18,6 +18,8 @@ A message about individual empowerment with OSS, by genjix May 31 2014 https://g
 
 ## DEFI
 
+CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance, 16 June 2021 by Kaihua Qin, Liyi Zhou, Yaroslav Afonin, Ludovico Lazzaretti, Arthur Gervais https://arxiv.org/abs/2106.08157 
+
 Uniswap V2 Core whitepaper by Adams, Zinsmeister, Robinson, March 2020 https://uniswap.org/whitepaper.pdf
 
 Uniswap v3 Core whitepaper by Adams, Zinsmeister, Salem, Keefer, Robinson, March 2021 https://uniswap.org/whitepaper-v3.pdf
