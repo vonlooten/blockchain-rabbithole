@@ -14,7 +14,10 @@ Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood, 2019 https://github.
 
 The Crypto Anarchist Manifesto, by Timothy C. May, 22 Nov 1992 https://activism.net/cypherpunk/crypto-anarchy.html
 
-A message about individual empowerment with OSS, by genjix May 31 2014 https://github.com/unsystem/paypub/blob/master/TESTFILE
+A message about individual empowerment with OSS, by genjix, May 31 2014 https://github.com/unsystem/paypub/blob/master/TESTFILE
+
+## Layer 2
+Layer 2 Rollups, by @wackerow, August 8 2021 https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/
 
 ## DEFI
 
