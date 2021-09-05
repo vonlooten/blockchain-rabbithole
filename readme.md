@@ -16,6 +16,8 @@ The Crypto Anarchist Manifesto, by Timothy C. May, 22 Nov 1992 https://activism.
 
 A message about individual empowerment with OSS, by genjix, May 31 2014 https://github.com/unsystem/paypub/blob/master/TESTFILE
 
+Mastering the Lightning Network, by Andreas M. Antonopoulos (@aantonop), Olaoluwa Osuntokun (@roasbeef), Rene Pickhardt (@renepickhardt), Q4'2021 https://github.com/lnbook/lnbook
+
 ## Layer 2
 Layer 2 Rollups, by @wackerow, August 8 2021 https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/
 
