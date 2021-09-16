@@ -44,7 +44,9 @@ Decentralized Finance: (DeFi) Policy-Maker Toolkit by World Economic Forum, 8 Ju
 
 Flash Crash for Cash: Cyber Threats in Decentralized Finance, 20 June 2021 by Kris Oosthoek https://arxiv.org/abs/2106.10740
 
+### Liquidity Provider
 
+LP Cafe, June 2021 by reuptaken and BowTiedGenie https://github.com/reuptaken/LP-Cafe/blob/main/README.md
 
 ## Token Standards
 
