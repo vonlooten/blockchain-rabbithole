@@ -18,6 +18,8 @@ A message about individual empowerment with OSS, by genjix, May 31 2014 https://
 
 Mastering the Lightning Network, by Andreas M. Antonopoulos (@aantonop), Olaoluwa Osuntokun (@roasbeef), Rene Pickhardt (@renepickhardt), Q4'2021 https://github.com/lnbook/lnbook
 
+Koinos Mana Whitepaper V0.1, by Andrew Levine, Nov 2 2021 https://medium.com/koinos-group/mana-whitepaper-v-0-1-bda4b13bb4c4
+
 ## Layer 2
 Layer 2 Rollups, by @wackerow, August 8 2021 https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/
 
