@@ -95,11 +95,12 @@ Smart Contract Research Forum https://www.smartcontractresearch.org/
 
 - Browser Ethereum IDE https://remix.ethereum.org/
 
-## Solana
-
-### Network
-- https://solanabeach.io/
-  
+## Koinos
+### General
+- [Koinos.io](https://koinos.io)
+- [github.com/koinos](https://github.com/koinos)
+### Development
+- [docs.koinos.io](https://docs.koinos.io)
 
 ## Platforms
 ### BSC
@@ -110,3 +111,4 @@ Uniswap https://app.uniswap.org/
 
 ### Cross-Chain-Defi
 O3 Swap https://o3swap.com/
+
