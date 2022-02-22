@@ -59,16 +59,6 @@ ERC-721 https://ethereum.org/en/developers/docs/standards/tokens/erc-721/, https
 
 ERC-777 https://eips.ethereum.org/EIPS/eip-777
 
-### Tron
-TRC-10 https://developers.tron.network/docs/trc10
-
-TRC-20 https://developers.tron.network/docs/trc20
-
-TRC-721 https://developers.tron.network/docs/trc-721
-### Binance Smart Chain
-BEP-2 https://academy.binance.com/en/glossary/bep-2
-
-BEP-20 https://github.com/binance-chain/BEPs/blob/master/BEP20.md
 ## Smart Contracts
 
 An Introduction to Smart Contracts and Their Potential and Inherent Limitations by Stuart D. Levi and Alex B. Lipton, Skadden, May 26 2018 https://corpgov.law.harvard.edu/2018/05/26/an-introduction-to-smart-contracts-and-their-potential-and-inherent-limitations/
@@ -101,14 +91,4 @@ Smart Contract Research Forum https://www.smartcontractresearch.org/
 - [github.com/koinos](https://github.com/koinos)
 ### Development
 - [docs.koinos.io](https://docs.koinos.io)
-
-## Platforms
-### BSC
-Pancakeswap https://pancakeswap.finance/
-
-### ETH
-Uniswap https://app.uniswap.org/
-
-### Cross-Chain-Defi
-O3 Swap https://o3swap.com/
 
